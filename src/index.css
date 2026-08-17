@@ -1,0 +1,15 @@
+body {
+  background-image: url(src/assets/ClockImage.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+}
+
+
+.clock{
+  font-size: 7rem;
+  text-align: center;
+ 
+}
