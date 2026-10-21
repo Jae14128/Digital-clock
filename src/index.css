@@ -1,5 +1,5 @@
 body {
-  background-image: url(public/ClockImage.jpg);
+  background-image: url(/ClockImage.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
