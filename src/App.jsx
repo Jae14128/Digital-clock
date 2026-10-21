@@ -1,9 +1,8 @@
-import DigitalClock from './DigitalClock.jsx'
-import ClockImage from './src/assets/ClockImage.jpg'
+import DigitalClock from './DigitalClock.jsx';
 
-function App() {
- return(<DigitalClock/>);
-  
+function App () {
+
+    return (<DigitalClock/>)
 }
 
 export default App
